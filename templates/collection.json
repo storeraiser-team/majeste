@@ -146,6 +146,74 @@
         "margin-bottom": 0
       }
     },
+    "grid_view_9khkLn": {
+      "type": "grid-view",
+      "blocks": {
+        "image_Xc3XdE": {
+          "type": "image",
+          "settings": {
+            "heading": "Evening",
+            "heading_disable_on_mobile": false,
+            "size_heading": 200,
+            "size_heading_mobile": 150,
+            "text": "",
+            "text_disable_on_mobile": false,
+            "button_select": "link",
+            "button_label": "view all",
+            "button_disable_on_mobile": false,
+            "button_link": "",
+            "button_link_in_new_window": false,
+            "color-body-text": "#ffffff",
+            "color-overlay": "rgba(0,0,0,0)",
+            "color-overlay-opacity": 0,
+            "desktop_image": "shopify://shop_images/9.png",
+            "desktop_text_vertical_position": "center",
+            "desktop_text_horizontal_position": "center",
+            "mobile_text_vertical_position": "center",
+            "mobile_text_horizontal_position": "center"
+          }
+        },
+        "image_6KtCHN": {
+          "type": "image",
+          "settings": {
+            "heading": "New In",
+            "heading_disable_on_mobile": false,
+            "size_heading": 200,
+            "size_heading_mobile": 150,
+            "text": "",
+            "text_disable_on_mobile": false,
+            "button_select": "link",
+            "button_label": "view all",
+            "button_disable_on_mobile": false,
+            "button_link": "",
+            "button_link_in_new_window": false,
+            "color-body-text": "#ffffff",
+            "color-overlay": "rgba(0,0,0,0)",
+            "color-overlay-opacity": 0,
+            "desktop_image": "shopify://shop_images/Copia_de_MISCENAS_MARSALA_2.jpg",
+            "desktop_text_vertical_position": "center",
+            "desktop_text_horizontal_position": "center",
+            "mobile_text_vertical_position": "center",
+            "mobile_text_horizontal_position": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_Xc3XdE",
+        "image_6KtCHN"
+      ],
+      "name": "t:sections.grid-view.settings.presets.name",
+      "settings": {
+        "title": "",
+        "swipe_on_mobile": false,
+        "full-width-enabled": true,
+        "image_ratio": "portrait",
+        "color-body-text": "rgba(0,0,0,0)",
+        "background_color": "rgba(0,0,0,0)",
+        "margin-top": 0,
+        "margin-bottom": 80
+      }
+    },
     "banner": {
       "type": "main-collection-banner",
       "disabled": true,
@@ -292,6 +360,7 @@
     "breadcrumbs",
     "rich_text_ABeET7",
     "grid_view_UYY6BF",
+    "grid_view_9khkLn",
     "banner",
     "rich_text_KePjzw",
     "product-grid",
