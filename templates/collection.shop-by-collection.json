@@ -1,1 +1,508 @@
-{"sections":{"breadcrumbs":{"type":"main-breadcrumbs","settings":{"full-width-enabled":false,"text_color":"rgba(0,0,0,0)","background_color":"rgba(0,0,0,0)","margin-top":16,"margin-bottom":0}},"rich_text_fjwb48":{"type":"rich-text","blocks":{"heading_FXUC4C":{"type":"heading","settings":{"heading":"Shop By Collection","disable_on_mobile":false,"size_heading":200,"size_heading_mobile":150}},"text_C7qneb":{"type":"text","settings":{"text":"<p>Discover the Latest Fashion Collections and Shop with Ease<\/p>","disable_on_mobile":false}}},"block_order":["heading_FXUC4C","text_C7qneb"],"name":"t:sections.rich-text.presets.name","settings":{"section_width":"regular","desktop_text_horizontal_position":"center","color-body-text":"transparent","background_color":"transparent","margin-top":80,"margin-bottom":80}},"grid_view_cNnrCh":{"type":"grid-view","blocks":{"image_Xt49db":{"type":"image","settings":{"heading":"Wedding Guest","heading_disable_on_mobile":false,"size_heading":200,"size_heading_mobile":150,"text":"","text_disable_on_mobile":false,"button_select":"link","button_label":"view all","button_disable_on_mobile":false,"button_link":"","button_link_in_new_window":false,"color-body-text":"#ffffff","color-overlay":"transparent","color-overlay-opacity":0,"desktop_image":"shopify:\/\/shop_images\/1.png","desktop_text_vertical_position":"center","desktop_text_horizontal_position":"center","mobile_text_vertical_position":"center","mobile_text_horizontal_position":"center"}},"image_ddeWBA":{"type":"image","settings":{"heading":"Graduation","heading_disable_on_mobile":false,"size_heading":200,"size_heading_mobile":150,"text":"","text_disable_on_mobile":false,"button_select":"link","button_label":"view all","button_disable_on_mobile":false,"button_link":"","button_link_in_new_window":false,"color-body-text":"#ffffff","color-overlay":"transparent","color-overlay-opacity":0,"desktop_image":"shopify:\/\/shop_images\/Copia_de_MISCENAS_MARINHO_1.jpg","desktop_text_vertical_position":"center","desktop_text_horizontal_position":"center","mobile_text_vertical_position":"center","mobile_text_horizontal_position":"center"}},"image_An4MBz":{"type":"image","settings":{"heading":"Cocktail","heading_disable_on_mobile":false,"size_heading":200,"size_heading_mobile":150,"text":"","text_disable_on_mobile":false,"button_select":"link","button_label":"view all","button_disable_on_mobile":false,"button_link":"","button_link_in_new_window":false,"color-body-text":"#ffffff","color-overlay":"transparent","color-overlay-opacity":0,"desktop_image":"shopify:\/\/shop_images\/Copia_de_Hollywood_bandeira_1_91cabcca-dfc0-4f9c-adb8-3a9790250f6b.jpg","desktop_text_vertical_position":"center","desktop_text_horizontal_position":"center","mobile_text_vertical_position":"center","mobile_text_horizontal_position":"center"}}},"block_order":["image_Xt49db","image_ddeWBA","image_An4MBz"],"name":"t:sections.grid-view.settings.presets.name","settings":{"title":"","swipe_on_mobile":false,"full-width-enabled":true,"image_ratio":"portrait","color-body-text":"transparent","background_color":"transparent","margin-top":0,"margin-bottom":0}},"grid_view_87qiii":{"type":"grid-view","blocks":{"image_pYW7bJ":{"type":"image","settings":{"heading":"Evening","heading_disable_on_mobile":false,"size_heading":200,"size_heading_mobile":150,"text":"","text_disable_on_mobile":false,"button_select":"link","button_label":"view all","button_disable_on_mobile":false,"button_link":"","button_link_in_new_window":false,"color-body-text":"#ffffff","color-overlay":"transparent","color-overlay-opacity":0,"desktop_image":"shopify:\/\/shop_images\/9.png","desktop_text_vertical_position":"center","desktop_text_horizontal_position":"center","mobile_text_vertical_position":"center","mobile_text_horizontal_position":"center"}},"image_6rhxG8":{"type":"image","settings":{"heading":"New In","heading_disable_on_mobile":false,"size_heading":200,"size_heading_mobile":150,"text":"","text_disable_on_mobile":false,"button_select":"link","button_label":"view all","button_disable_on_mobile":false,"button_link":"","button_link_in_new_window":false,"color-body-text":"#ffffff","color-overlay":"transparent","color-overlay-opacity":0,"desktop_image":"shopify:\/\/shop_images\/Copia_de_MISCENAS_MARSALA_2.jpg","desktop_text_vertical_position":"center","desktop_text_horizontal_position":"center","mobile_text_vertical_position":"center","mobile_text_horizontal_position":"center"}}},"block_order":["image_pYW7bJ","image_6rhxG8"],"name":"t:sections.grid-view.settings.presets.name","settings":{"title":"","swipe_on_mobile":false,"full-width-enabled":true,"image_ratio":"portrait","color-body-text":"transparent","background_color":"transparent","margin-top":0,"margin-bottom":80}},"rich_text_ADkjfi":{"type":"rich-text","blocks":{"heading_yFEki3":{"type":"heading","settings":{"heading":"Our Bestsellers","disable_on_mobile":false,"size_heading":200,"size_heading_mobile":150}},"text_94aTQT":{"type":"text","disabled":true,"settings":{"text":"<p>From weddings to evenings out, find the perfect dress for every moment.<br\/><\/p>","disable_on_mobile":false}}},"block_order":["heading_yFEki3","text_94aTQT"],"name":"t:sections.rich-text.presets.name","settings":{"section_width":"regular","desktop_text_horizontal_position":"center","color-body-text":"rgba(0,0,0,0)","background_color":"rgba(0,0,0,0)","margin-top":0,"margin-bottom":0}},"featured_collection_8Ahzj3":{"type":"featured-collection","name":"t:sections.featured-collection.presets.name","settings":{"title":"","disable_on_mobile":false,"hide_empty_section":false,"collection":"promocoes","product_list":["conjunto-midi-renda-guipir-branco-cecilia","blusa-decote-reto-off-white-leona","pareo-de-toque-de-seda-estampado-off-white-katy","top-cropped-off-white-bethany","top-drapeado-azul-marinho-leona"],"products_to_show":24,"enable_stack_products":false,"show_view_all":true,"button_select":"link","number_of_column_desktop":4,"spacing_desktop":"8","make_products_full_width":false,"number_of_column_mobile":2.1,"spacing_mobile":"8","text_alignment":"left","image_ratio":"portrait","show_video":false,"show_secondary_image":true,"show_vendor":false,"show_product_rating":false,"enable_quick_add_button":false,"color-body-text":"rgba(0,0,0,0)","background_color":"rgba(0,0,0,0)","margin-top":0,"margin-bottom":0}},"rich_text_rLVbyb":{"type":"rich-text","blocks":{"button_66YhaA":{"type":"button","settings":{"button_select":"link","button_label":"view all","button_link":"\/","disable_on_mobile":false}}},"block_order":["button_66YhaA"],"name":"t:sections.rich-text.presets.name","settings":{"section_width":"regular","desktop_text_horizontal_position":"center","color-body-text":"rgba(0,0,0,0)","background_color":"rgba(0,0,0,0)","margin-top":0,"margin-bottom":80}},"newsletter_with_image_88GfBy":{"type":"newsletter-with-image","blocks":{"heading_prygYX":{"type":"heading","settings":{"heading":"Get 10% off your first order","heading_disable_on_mobile":false,"size_heading":100,"size_heading_mobile":100}},"paragraph_FziM8d":{"type":"paragraph","settings":{"paragraph":"<p>Be the first to know about new drops and exclusive pieces.<\/p>","text_disable_on_mobile":false}},"email_form_PgYTJn":{"type":"email_form","settings":{"button_select":"primary"}}},"block_order":["heading_prygYX","paragraph_FziM8d","email_form_PgYTJn"],"name":"t:sections.newsletter-with-image.name","settings":{"slide_height":"fixed_height","desktop_fixed_height":320,"mobile_fixed_height":460,"color-body-text":"rgba(0,0,0,0)","background_color":"#f7dde4","background_color_opacity":100,"background_blur":3,"margin-top":80,"margin-bottom":80}},"background_video_cTehLP":{"type":"background-video","blocks":{"subheading_MWhMpD":{"type":"subheading","disabled":true,"settings":{"subheading":"Tell your story","subheading_disable_on_mobile":false}},"heading_kV7HE6":{"type":"heading","disabled":true,"settings":{"heading":"Video scene","disable_on_mobile":false,"size_heading":100,"size_heading_mobile":100}},"text_7cXPXt":{"type":"text","disabled":true,"settings":{"text":"<p>Explore in motion<\/p>","disable_on_mobile":false}},"button_zWrAkQ":{"type":"button","settings":{"button_select":"primary","button_label":"Button label","disable_on_mobile":false,"button_link":"","second_button_select":"primary","second_button_label":"Button label","second_disable_on_mobile":false,"second_button_link":""}}},"block_order":["subheading_MWhMpD","heading_kV7HE6","text_7cXPXt","button_zWrAkQ"],"name":"t:sections.background-video.presets.name","settings":{"heading":"","full-width-enabled":true,"video_hosted":"shopify:\/\/files\/videos\/Majeste After Party Collection.mp4","autoplay":true,"video_controls":false,"video_url":"https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc","original_ratio":"original_ratio","desktop_fixed_height":320,"mobile_fixed_height":460,"color-body-heading":"rgba(0,0,0,0)","color-overlay":"rgba(0,0,0,0)","color-overlay-opacity":100,"color-body-text":"rgba(0,0,0,0)","desktop_text_horizontal_position":"center","mobile_text_horizontal_position":"center","margin-top":80,"margin-bottom":80}},"banner":{"type":"main-collection-banner","disabled":true,"settings":{"show_collection_description":true,"layout":"text_first","desktop-percentage-image-width":50,"slide_height":"fixed_height","desktop_fixed_height":260,"mobile_fixed_height":260,"full-width-enabled":true,"size_heading":180,"size_heading_mobile":230,"desktop_text_vertical_position":"center","desktop_text_horizontal_position":"left","mobile_text_horizontal_position":"center","color-body-text":"rgba(0,0,0,0)","color-overlay":"rgba(0,0,0,0)","color-overlay-opacity":100,"margin-top":12,"margin-bottom":12}},"title":{"type":"main-collection-title","disabled":true,"settings":{"full-width-enabled":false,"show_collection_description":true,"desktop_text_horizontal_position":"center","size_heading":200,"size_heading_mobile":140,"color-body-text":"rgba(0,0,0,0)","background_color":"rgba(0,0,0,0)","margin-top":24,"margin-bottom":24}},"product-grid":{"type":"main-collection-product-grid","disabled":true,"settings":{"products_per_page":12,"columns_mobile":"2","columns_desktop":"4","spacing_desktop":"16","full-width-enabled":false,"spacing_mobile":"16","image_ratio":"adapt","show_video":false,"show_secondary_image":false,"show_vendor":true,"show_product_rating":false,"enable_quick_add_button":true,"text_alignment":"left","toolbar_style":"minimal","enable_sorting":true,"enable_filtering":true,"filter_position":"drawer","margin-top":0,"margin-bottom":28}}},"order":["breadcrumbs","rich_text_fjwb48","grid_view_cNnrCh","grid_view_87qiii","rich_text_ADkjfi","featured_collection_8Ahzj3","rich_text_rLVbyb","newsletter_with_image_88GfBy","background_video_cTehLP","banner","title","product-grid"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "breadcrumbs": {
+      "type": "main-breadcrumbs",
+      "settings": {
+        "full-width-enabled": false,
+        "text_color": "rgba(0,0,0,0)",
+        "background_color": "rgba(0,0,0,0)",
+        "margin-top": 16,
+        "margin-bottom": 0
+      }
+    },
+    "rich_text_fjwb48": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_FXUC4C": {
+          "type": "heading",
+          "settings": {
+            "heading": "Shop By Collection",
+            "disable_on_mobile": false,
+            "size_heading": 200,
+            "size_heading_mobile": 150
+          }
+        },
+        "text_C7qneb": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Discover the Latest Fashion Collections and Shop with Ease</p>",
+            "disable_on_mobile": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_FXUC4C",
+        "text_C7qneb"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "section_width": "regular",
+        "desktop_text_horizontal_position": "center",
+        "color-body-text": "rgba(0,0,0,0)",
+        "background_color": "rgba(0,0,0,0)",
+        "margin-top": 80,
+        "margin-bottom": 80
+      }
+    },
+    "grid_view_cNnrCh": {
+      "type": "grid-view",
+      "blocks": {
+        "image_Xt49db": {
+          "type": "image",
+          "settings": {
+            "heading": "Wedding Guest",
+            "heading_disable_on_mobile": false,
+            "size_heading": 200,
+            "size_heading_mobile": 150,
+            "text": "",
+            "text_disable_on_mobile": false,
+            "button_select": "link",
+            "button_label": "view all",
+            "button_disable_on_mobile": false,
+            "button_link": "",
+            "button_link_in_new_window": false,
+            "color-body-text": "#ffffff",
+            "color-overlay": "rgba(0,0,0,0)",
+            "color-overlay-opacity": 0,
+            "desktop_image": "shopify://shop_images/1.png",
+            "desktop_text_vertical_position": "center",
+            "desktop_text_horizontal_position": "center",
+            "mobile_text_vertical_position": "center",
+            "mobile_text_horizontal_position": "center"
+          }
+        },
+        "image_ddeWBA": {
+          "type": "image",
+          "settings": {
+            "heading": "Graduation",
+            "heading_disable_on_mobile": false,
+            "size_heading": 200,
+            "size_heading_mobile": 150,
+            "text": "",
+            "text_disable_on_mobile": false,
+            "button_select": "link",
+            "button_label": "view all",
+            "button_disable_on_mobile": false,
+            "button_link": "",
+            "button_link_in_new_window": false,
+            "color-body-text": "#ffffff",
+            "color-overlay": "rgba(0,0,0,0)",
+            "color-overlay-opacity": 0,
+            "desktop_image": "shopify://shop_images/Copia_de_MISCENAS_MARINHO_1.jpg",
+            "desktop_text_vertical_position": "center",
+            "desktop_text_horizontal_position": "center",
+            "mobile_text_vertical_position": "center",
+            "mobile_text_horizontal_position": "center"
+          }
+        },
+        "image_An4MBz": {
+          "type": "image",
+          "settings": {
+            "heading": "Cocktail",
+            "heading_disable_on_mobile": false,
+            "size_heading": 200,
+            "size_heading_mobile": 150,
+            "text": "",
+            "text_disable_on_mobile": false,
+            "button_select": "link",
+            "button_label": "view all",
+            "button_disable_on_mobile": false,
+            "button_link": "",
+            "button_link_in_new_window": false,
+            "color-body-text": "#ffffff",
+            "color-overlay": "rgba(0,0,0,0)",
+            "color-overlay-opacity": 0,
+            "desktop_image": "shopify://shop_images/Copia_de_Hollywood_bandeira_1_91cabcca-dfc0-4f9c-adb8-3a9790250f6b.jpg",
+            "desktop_text_vertical_position": "center",
+            "desktop_text_horizontal_position": "center",
+            "mobile_text_vertical_position": "center",
+            "mobile_text_horizontal_position": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_Xt49db",
+        "image_ddeWBA",
+        "image_An4MBz"
+      ],
+      "name": "t:sections.grid-view.settings.presets.name",
+      "settings": {
+        "title": "",
+        "swipe_on_mobile": false,
+        "full-width-enabled": true,
+        "image_ratio": "portrait",
+        "color-body-text": "rgba(0,0,0,0)",
+        "background_color": "rgba(0,0,0,0)",
+        "margin-top": 0,
+        "margin-bottom": 0
+      }
+    },
+    "grid_view_87qiii": {
+      "type": "grid-view",
+      "blocks": {
+        "image_pYW7bJ": {
+          "type": "image",
+          "settings": {
+            "heading": "Evening",
+            "heading_disable_on_mobile": false,
+            "size_heading": 200,
+            "size_heading_mobile": 150,
+            "text": "",
+            "text_disable_on_mobile": false,
+            "button_select": "link",
+            "button_label": "view all",
+            "button_disable_on_mobile": false,
+            "button_link": "",
+            "button_link_in_new_window": false,
+            "color-body-text": "#ffffff",
+            "color-overlay": "rgba(0,0,0,0)",
+            "color-overlay-opacity": 0,
+            "desktop_image": "shopify://shop_images/9.png",
+            "desktop_text_vertical_position": "center",
+            "desktop_text_horizontal_position": "center",
+            "mobile_text_vertical_position": "center",
+            "mobile_text_horizontal_position": "center"
+          }
+        },
+        "image_6rhxG8": {
+          "type": "image",
+          "settings": {
+            "heading": "New In",
+            "heading_disable_on_mobile": false,
+            "size_heading": 200,
+            "size_heading_mobile": 150,
+            "text": "",
+            "text_disable_on_mobile": false,
+            "button_select": "link",
+            "button_label": "view all",
+            "button_disable_on_mobile": false,
+            "button_link": "",
+            "button_link_in_new_window": false,
+            "color-body-text": "#ffffff",
+            "color-overlay": "rgba(0,0,0,0)",
+            "color-overlay-opacity": 0,
+            "desktop_image": "shopify://shop_images/Copia_de_MISCENAS_MARSALA_2.jpg",
+            "desktop_text_vertical_position": "center",
+            "desktop_text_horizontal_position": "center",
+            "mobile_text_vertical_position": "center",
+            "mobile_text_horizontal_position": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_pYW7bJ",
+        "image_6rhxG8"
+      ],
+      "name": "t:sections.grid-view.settings.presets.name",
+      "settings": {
+        "title": "",
+        "swipe_on_mobile": false,
+        "full-width-enabled": true,
+        "image_ratio": "portrait",
+        "color-body-text": "rgba(0,0,0,0)",
+        "background_color": "rgba(0,0,0,0)",
+        "margin-top": 0,
+        "margin-bottom": 80
+      }
+    },
+    "rich_text_ADkjfi": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_yFEki3": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our Bestsellers",
+            "disable_on_mobile": false,
+            "size_heading": 200,
+            "size_heading_mobile": 150
+          }
+        },
+        "text_94aTQT": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>From weddings to evenings out, find the perfect dress for every moment.<br/></p>",
+            "disable_on_mobile": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_yFEki3",
+        "text_94aTQT"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "section_width": "regular",
+        "desktop_text_horizontal_position": "center",
+        "color-body-text": "rgba(0,0,0,0)",
+        "background_color": "rgba(0,0,0,0)",
+        "margin-top": 0,
+        "margin-bottom": 0
+      }
+    },
+    "featured_collection_8Ahzj3": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.name",
+      "settings": {
+        "title": "",
+        "disable_on_mobile": false,
+        "hide_empty_section": false,
+        "collection": "promocoes",
+        "product_list": [
+          "conjunto-midi-renda-guipir-branco-cecilia",
+          "blusa-decote-reto-off-white-leona",
+          "pareo-de-toque-de-seda-estampado-off-white-katy",
+          "top-cropped-off-white-bethany",
+          "top-drapeado-azul-marinho-leona"
+        ],
+        "products_to_show": 24,
+        "enable_stack_products": false,
+        "show_view_all": true,
+        "button_select": "link",
+        "number_of_column_desktop": 4,
+        "spacing_desktop": "8",
+        "make_products_full_width": false,
+        "number_of_column_mobile": 2.1,
+        "spacing_mobile": "8",
+        "text_alignment": "left",
+        "image_ratio": "portrait",
+        "show_video": false,
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_product_rating": false,
+        "enable_quick_add_button": false,
+        "color-body-text": "rgba(0,0,0,0)",
+        "background_color": "rgba(0,0,0,0)",
+        "margin-top": 0,
+        "margin-bottom": 0
+      }
+    },
+    "rich_text_rLVbyb": {
+      "type": "rich-text",
+      "blocks": {
+        "button_66YhaA": {
+          "type": "button",
+          "settings": {
+            "button_select": "link",
+            "button_label": "view all",
+            "button_link": "/",
+            "disable_on_mobile": false
+          }
+        }
+      },
+      "block_order": [
+        "button_66YhaA"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "section_width": "regular",
+        "desktop_text_horizontal_position": "center",
+        "color-body-text": "rgba(0,0,0,0)",
+        "background_color": "rgba(0,0,0,0)",
+        "margin-top": 0,
+        "margin-bottom": 80
+      }
+    },
+    "newsletter_with_image_88GfBy": {
+      "type": "newsletter-with-image",
+      "blocks": {
+        "heading_prygYX": {
+          "type": "heading",
+          "settings": {
+            "heading": "Get 10% off your first order",
+            "heading_disable_on_mobile": false,
+            "size_heading": 100,
+            "size_heading_mobile": 100
+          }
+        },
+        "paragraph_FziM8d": {
+          "type": "paragraph",
+          "settings": {
+            "paragraph": "<p>Be the first to know about new drops and exclusive pieces.</p>",
+            "text_disable_on_mobile": false
+          }
+        },
+        "email_form_PgYTJn": {
+          "type": "email_form",
+          "settings": {
+            "button_select": "primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_prygYX",
+        "paragraph_FziM8d",
+        "email_form_PgYTJn"
+      ],
+      "name": "t:sections.newsletter-with-image.name",
+      "settings": {
+        "slide_height": "fixed_height",
+        "desktop_fixed_height": 320,
+        "mobile_fixed_height": 460,
+        "color-body-text": "rgba(0,0,0,0)",
+        "background_color": "#f7dde4",
+        "background_color_opacity": 100,
+        "background_blur": 3,
+        "margin-top": 80,
+        "margin-bottom": 80
+      }
+    },
+    "background_video_cTehLP": {
+      "type": "background-video",
+      "blocks": {
+        "subheading_MWhMpD": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "subheading": "Tell your story",
+            "subheading_disable_on_mobile": false
+          }
+        },
+        "heading_kV7HE6": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Video scene",
+            "disable_on_mobile": false,
+            "size_heading": 100,
+            "size_heading_mobile": 100
+          }
+        },
+        "text_7cXPXt": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Explore in motion</p>",
+            "disable_on_mobile": false
+          }
+        },
+        "button_zWrAkQ": {
+          "type": "button",
+          "settings": {
+            "button_select": "primary",
+            "button_label": "Button label",
+            "disable_on_mobile": false,
+            "button_link": "",
+            "second_button_select": "primary",
+            "second_button_label": "Button label",
+            "second_disable_on_mobile": false,
+            "second_button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_MWhMpD",
+        "heading_kV7HE6",
+        "text_7cXPXt",
+        "button_zWrAkQ"
+      ],
+      "disabled": true,
+      "name": "t:sections.background-video.presets.name",
+      "settings": {
+        "heading": "",
+        "full-width-enabled": true,
+        "video_hosted": "shopify://files/videos/Majeste After Party Collection.mp4",
+        "autoplay": true,
+        "video_controls": false,
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "original_ratio": "original_ratio",
+        "desktop_fixed_height": 320,
+        "mobile_fixed_height": 460,
+        "color-body-heading": "rgba(0,0,0,0)",
+        "color-overlay": "rgba(0,0,0,0)",
+        "color-overlay-opacity": 100,
+        "color-body-text": "rgba(0,0,0,0)",
+        "desktop_text_horizontal_position": "center",
+        "mobile_text_horizontal_position": "center",
+        "margin-top": 80,
+        "margin-bottom": 80
+      }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "disabled": true,
+      "settings": {
+        "show_collection_description": true,
+        "layout": "text_first",
+        "desktop-percentage-image-width": 50,
+        "slide_height": "fixed_height",
+        "desktop_fixed_height": 260,
+        "mobile_fixed_height": 260,
+        "full-width-enabled": true,
+        "size_heading": 180,
+        "size_heading_mobile": 230,
+        "desktop_text_vertical_position": "center",
+        "desktop_text_horizontal_position": "left",
+        "mobile_text_horizontal_position": "center",
+        "color-body-text": "rgba(0,0,0,0)",
+        "color-overlay": "rgba(0,0,0,0)",
+        "color-overlay-opacity": 100,
+        "margin-top": 12,
+        "margin-bottom": 12
+      }
+    },
+    "title": {
+      "type": "main-collection-title",
+      "disabled": true,
+      "settings": {
+        "full-width-enabled": false,
+        "show_collection_description": true,
+        "desktop_text_horizontal_position": "center",
+        "size_heading": 200,
+        "size_heading_mobile": 140,
+        "color-body-text": "rgba(0,0,0,0)",
+        "background_color": "rgba(0,0,0,0)",
+        "margin-top": 24,
+        "margin-bottom": 24
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "disabled": true,
+      "settings": {
+        "products_per_page": 12,
+        "columns_mobile": "2",
+        "columns_desktop": "4",
+        "spacing_desktop": "16",
+        "full-width-enabled": false,
+        "spacing_mobile": "16",
+        "image_ratio": "adapt",
+        "show_video": false,
+        "show_secondary_image": false,
+        "show_vendor": true,
+        "show_product_rating": false,
+        "enable_quick_add_button": true,
+        "text_alignment": "left",
+        "toolbar_style": "minimal",
+        "enable_sorting": true,
+        "enable_filtering": true,
+        "filter_position": "drawer",
+        "margin-top": 0,
+        "margin-bottom": 28
+      }
+    }
+  },
+  "order": [
+    "breadcrumbs",
+    "rich_text_fjwb48",
+    "grid_view_cNnrCh",
+    "grid_view_87qiii",
+    "rich_text_ADkjfi",
+    "featured_collection_8Ahzj3",
+    "rich_text_rLVbyb",
+    "newsletter_with_image_88GfBy",
+    "background_video_cTehLP",
+    "banner",
+    "title",
+    "product-grid"
+  ]
+}

@@ -1,1 +1,301 @@
-{"sections":{"breadcrumbs":{"type":"main-breadcrumbs","settings":{"full-width-enabled":false,"text_color":"rgba(0,0,0,0)","background_color":"rgba(0,0,0,0)","margin-top":16,"margin-bottom":0}},"banner":{"type":"main-collection-banner","disabled":true,"settings":{"show_collection_description":true,"layout":"text_first","desktop-percentage-image-width":50,"slide_height":"fixed_height","desktop_fixed_height":260,"mobile_fixed_height":260,"full-width-enabled":true,"size_heading":180,"size_heading_mobile":230,"desktop_text_vertical_position":"center","desktop_text_horizontal_position":"left","mobile_text_horizontal_position":"center","color-body-text":"rgba(0,0,0,0)","color-overlay":"rgba(0,0,0,0)","color-overlay-opacity":100,"margin-top":12,"margin-bottom":12}},"rich_text_KePjzw":{"type":"rich-text","blocks":{"heading_qUhbL6":{"type":"heading","settings":{"heading":"Wedding Guest","disable_on_mobile":false,"size_heading":200,"size_heading_mobile":150}},"text_9jr4ka":{"type":"text","settings":{"text":"<p>Celebrate love in timeless elegance. Find the perfect dress to honor every “I do<\/p>","disable_on_mobile":false}}},"block_order":["heading_qUhbL6","text_9jr4ka"],"name":"t:sections.rich-text.presets.name","settings":{"section_width":"regular","desktop_text_horizontal_position":"center","color-body-text":"rgba(0,0,0,0)","background_color":"rgba(0,0,0,0)","margin-top":80,"margin-bottom":80}},"title":{"type":"main-collection-title","disabled":true,"settings":{"full-width-enabled":false,"show_collection_description":true,"desktop_text_horizontal_position":"center","size_heading":200,"size_heading_mobile":140,"color-body-text":"rgba(0,0,0,0)","background_color":"rgba(0,0,0,0)","margin-top":24,"margin-bottom":24}},"product-grid":{"type":"main-collection-product-grid","settings":{"products_per_page":12,"columns_mobile":"2","columns_desktop":"4","spacing_desktop":"8","full-width-enabled":false,"spacing_mobile":"8","image_ratio":"adapt","show_video":false,"show_secondary_image":false,"show_vendor":true,"show_product_rating":false,"enable_quick_add_button":false,"text_alignment":"center","toolbar_style":"minimal","enable_sorting":true,"enable_filtering":true,"filter_position":"drawer","margin-top":80,"margin-bottom":80}},"newsletter_with_image_CAwKck":{"type":"newsletter-with-image","blocks":{"heading_xrRM3e":{"type":"heading","settings":{"heading":"Get 10% off your first order","heading_disable_on_mobile":false,"size_heading":100,"size_heading_mobile":100}},"paragraph_pxVipW":{"type":"paragraph","settings":{"paragraph":"<p>Be the first to know about new drops and exclusive pieces.<\/p>","text_disable_on_mobile":false}},"email_form_XYcjKa":{"type":"email_form","settings":{"button_select":"primary"}}},"block_order":["heading_xrRM3e","paragraph_pxVipW","email_form_XYcjKa"],"name":"t:sections.newsletter-with-image.name","settings":{"slide_height":"fixed_height","desktop_fixed_height":320,"mobile_fixed_height":460,"color-body-text":"rgba(0,0,0,0)","background_color":"#f7dde4","background_color_opacity":100,"background_blur":3,"margin-top":80,"margin-bottom":80}},"background_video_htaekQ":{"type":"background-video","blocks":{"subheading_JVQLti":{"type":"subheading","disabled":true,"settings":{"subheading":"Tell your story","subheading_disable_on_mobile":false}},"heading_pwyXXw":{"type":"heading","disabled":true,"settings":{"heading":"Video scene","disable_on_mobile":false,"size_heading":100,"size_heading_mobile":100}},"text_6W9di8":{"type":"text","disabled":true,"settings":{"text":"<p>Explore in motion<\/p>","disable_on_mobile":false}},"button_xzUJWb":{"type":"button","settings":{"button_select":"primary","button_label":"Button label","disable_on_mobile":false,"button_link":"","second_button_select":"primary","second_button_label":"Button label","second_disable_on_mobile":false,"second_button_link":""}}},"block_order":["subheading_JVQLti","heading_pwyXXw","text_6W9di8","button_xzUJWb"],"name":"t:sections.background-video.presets.name","settings":{"heading":"","full-width-enabled":true,"video_hosted":"shopify:\/\/files\/videos\/Majeste After Party Collection.mp4","autoplay":true,"video_controls":false,"video_url":"https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc","original_ratio":"original_ratio","desktop_fixed_height":320,"mobile_fixed_height":460,"color-body-heading":"rgba(0,0,0,0)","color-overlay":"rgba(0,0,0,0)","color-overlay-opacity":100,"color-body-text":"rgba(0,0,0,0)","desktop_text_horizontal_position":"center","mobile_text_horizontal_position":"center","margin-top":80,"margin-bottom":80}}},"order":["breadcrumbs","banner","rich_text_KePjzw","title","product-grid","newsletter_with_image_CAwKck","background_video_htaekQ"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "breadcrumbs": {
+      "type": "main-breadcrumbs",
+      "settings": {
+        "full-width-enabled": false,
+        "text_color": "rgba(0,0,0,0)",
+        "background_color": "rgba(0,0,0,0)",
+        "margin-top": 16,
+        "margin-bottom": 0
+      }
+    },
+    "rich_text_ABeET7": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Ede77A": {
+          "type": "heading",
+          "settings": {
+            "heading": "Guests",
+            "disable_on_mobile": false,
+            "size_heading": 200,
+            "size_heading_mobile": 150
+          }
+        },
+        "text_a4GYX8": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Discover the Latest Fashion Collections and Shop with Ease</p>",
+            "disable_on_mobile": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_Ede77A",
+        "text_a4GYX8"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "section_width": "regular",
+        "desktop_text_horizontal_position": "center",
+        "color-body-text": "rgba(0,0,0,0)",
+        "background_color": "rgba(0,0,0,0)",
+        "margin-top": 80,
+        "margin-bottom": 80
+      }
+    },
+    "grid_view_UYY6BF": {
+      "type": "grid-view",
+      "blocks": {
+        "image_CHNjHN": {
+          "type": "image",
+          "settings": {
+            "heading": "Wedding Guest",
+            "heading_disable_on_mobile": false,
+            "size_heading": 200,
+            "size_heading_mobile": 150,
+            "text": "",
+            "text_disable_on_mobile": false,
+            "button_select": "link",
+            "button_label": "view all",
+            "button_disable_on_mobile": false,
+            "button_link": "",
+            "button_link_in_new_window": false,
+            "color-body-text": "#ffffff",
+            "color-overlay": "rgba(0,0,0,0)",
+            "color-overlay-opacity": 0,
+            "desktop_image": "shopify://shop_images/1.png",
+            "desktop_text_vertical_position": "center",
+            "desktop_text_horizontal_position": "center",
+            "mobile_text_vertical_position": "center",
+            "mobile_text_horizontal_position": "center"
+          }
+        },
+        "image_DHzfeQ": {
+          "type": "image",
+          "settings": {
+            "heading": "Graduation",
+            "heading_disable_on_mobile": false,
+            "size_heading": 200,
+            "size_heading_mobile": 150,
+            "text": "",
+            "text_disable_on_mobile": false,
+            "button_select": "link",
+            "button_label": "view all",
+            "button_disable_on_mobile": false,
+            "button_link": "",
+            "button_link_in_new_window": false,
+            "color-body-text": "#ffffff",
+            "color-overlay": "rgba(0,0,0,0)",
+            "color-overlay-opacity": 0,
+            "desktop_image": "shopify://shop_images/Copia_de_MISCENAS_MARINHO_1.jpg",
+            "desktop_text_vertical_position": "center",
+            "desktop_text_horizontal_position": "center",
+            "mobile_text_vertical_position": "center",
+            "mobile_text_horizontal_position": "center"
+          }
+        },
+        "image_WjVXLQ": {
+          "type": "image",
+          "settings": {
+            "heading": "Cocktail",
+            "heading_disable_on_mobile": false,
+            "size_heading": 200,
+            "size_heading_mobile": 150,
+            "text": "",
+            "text_disable_on_mobile": false,
+            "button_select": "link",
+            "button_label": "view all",
+            "button_disable_on_mobile": false,
+            "button_link": "",
+            "button_link_in_new_window": false,
+            "color-body-text": "#ffffff",
+            "color-overlay": "rgba(0,0,0,0)",
+            "color-overlay-opacity": 0,
+            "desktop_image": "shopify://shop_images/Copia_de_Hollywood_bandeira_1_91cabcca-dfc0-4f9c-adb8-3a9790250f6b.jpg",
+            "desktop_text_vertical_position": "center",
+            "desktop_text_horizontal_position": "center",
+            "mobile_text_vertical_position": "center",
+            "mobile_text_horizontal_position": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_CHNjHN",
+        "image_DHzfeQ",
+        "image_WjVXLQ"
+      ],
+      "name": "t:sections.grid-view.settings.presets.name",
+      "settings": {
+        "title": "",
+        "swipe_on_mobile": false,
+        "full-width-enabled": true,
+        "image_ratio": "portrait",
+        "color-body-text": "rgba(0,0,0,0)",
+        "background_color": "rgba(0,0,0,0)",
+        "margin-top": 0,
+        "margin-bottom": 0
+      }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "disabled": true,
+      "settings": {
+        "show_collection_description": true,
+        "layout": "text_first",
+        "desktop-percentage-image-width": 50,
+        "slide_height": "fixed_height",
+        "desktop_fixed_height": 260,
+        "mobile_fixed_height": 260,
+        "full-width-enabled": true,
+        "size_heading": 180,
+        "size_heading_mobile": 230,
+        "desktop_text_vertical_position": "center",
+        "desktop_text_horizontal_position": "left",
+        "mobile_text_horizontal_position": "center",
+        "color-body-text": "rgba(0,0,0,0)",
+        "color-overlay": "rgba(0,0,0,0)",
+        "color-overlay-opacity": 100,
+        "margin-top": 12,
+        "margin-bottom": 12
+      }
+    },
+    "rich_text_KePjzw": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_qUhbL6": {
+          "type": "heading",
+          "settings": {
+            "heading": "Wedding Guest",
+            "disable_on_mobile": false,
+            "size_heading": 200,
+            "size_heading_mobile": 150
+          }
+        },
+        "text_9jr4ka": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Celebrate love in timeless elegance. Find the perfect dress to honor every “I do</p>",
+            "disable_on_mobile": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_qUhbL6",
+        "text_9jr4ka"
+      ],
+      "disabled": true,
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "section_width": "regular",
+        "desktop_text_horizontal_position": "center",
+        "color-body-text": "rgba(0,0,0,0)",
+        "background_color": "rgba(0,0,0,0)",
+        "margin-top": 80,
+        "margin-bottom": 80
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 12,
+        "columns_mobile": "2",
+        "columns_desktop": "4",
+        "spacing_desktop": "8",
+        "full-width-enabled": false,
+        "spacing_mobile": "8",
+        "image_ratio": "adapt",
+        "show_video": false,
+        "show_secondary_image": false,
+        "show_vendor": true,
+        "show_product_rating": false,
+        "enable_quick_add_button": false,
+        "text_alignment": "center",
+        "toolbar_style": "minimal",
+        "enable_sorting": true,
+        "enable_filtering": true,
+        "filter_position": "drawer",
+        "margin-top": 80,
+        "margin-bottom": 80
+      }
+    },
+    "title": {
+      "type": "main-collection-title",
+      "disabled": true,
+      "settings": {
+        "full-width-enabled": false,
+        "show_collection_description": true,
+        "desktop_text_horizontal_position": "center",
+        "size_heading": 200,
+        "size_heading_mobile": 140,
+        "color-body-text": "rgba(0,0,0,0)",
+        "background_color": "rgba(0,0,0,0)",
+        "margin-top": 24,
+        "margin-bottom": 24
+      }
+    },
+    "newsletter_with_image_CAwKck": {
+      "type": "newsletter-with-image",
+      "blocks": {
+        "heading_xrRM3e": {
+          "type": "heading",
+          "settings": {
+            "heading": "Get 10% off your first order",
+            "heading_disable_on_mobile": false,
+            "size_heading": 100,
+            "size_heading_mobile": 100
+          }
+        },
+        "paragraph_pxVipW": {
+          "type": "paragraph",
+          "settings": {
+            "paragraph": "<p>Be the first to know about new drops and exclusive pieces.</p>",
+            "text_disable_on_mobile": false
+          }
+        },
+        "email_form_XYcjKa": {
+          "type": "email_form",
+          "settings": {
+            "button_select": "primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_xrRM3e",
+        "paragraph_pxVipW",
+        "email_form_XYcjKa"
+      ],
+      "name": "t:sections.newsletter-with-image.name",
+      "settings": {
+        "slide_height": "fixed_height",
+        "desktop_fixed_height": 320,
+        "mobile_fixed_height": 460,
+        "color-body-text": "rgba(0,0,0,0)",
+        "background_color": "#f7dde4",
+        "background_color_opacity": 100,
+        "background_blur": 3,
+        "margin-top": 80,
+        "margin-bottom": 80
+      }
+    }
+  },
+  "order": [
+    "breadcrumbs",
+    "rich_text_ABeET7",
+    "grid_view_UYY6BF",
+    "banner",
+    "rich_text_KePjzw",
+    "product-grid",
+    "title",
+    "newsletter_with_image_CAwKck"
+  ]
+}
